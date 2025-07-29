@@ -1,107 +1,65 @@
-GSAP Learning Projects 🚀
-Welcome to my repository showing my journey with GSAP (GreenSock Animation Platform)! This repo contains hands-on mini-projects and examples which helped me learn core GSAP concepts, including gsap.to, gsap.from, timeline animations, ScrollTrigger, and more.
+GSAP Learning Projects Repository 
+Welcome to my collection of hands-on projects and study materials documenting my journey learning GSAP (GreenSock Animation Platform)! This repository contains practical projects exploring various animation techniques using GSAP, from cursor effects to scroll-based animations.
 
 📁 Repository Structure
-PART-1, PART-2, PART-3: My study notes, code snippets, and experiments while learning GSAP.
+PART-1, PART-2, PART-3
+Study notes, code snippets, and incremental experiments as I delve deeper into GSAP concepts and APIs.
 
-Project-1 to Project-5: Individual hands-on projects, each focused on one or more GSAP features.
+Project -1 (custom cursor)
+Creating a custom cursor effect with GSAP animations for smooth following and interaction.
 
-✨ What I Learned
-gsap.to & gsap.from
-Animating DOM elements from/to specific values, customizing properties and sequencing actions.
+Project -2 (Animation Navigation Menu)
+Building an animated navigation menu emphasizing stylish transitions using gsap.to and timelines.
 
-Timelines
-Creating organized, sequential (or overlapping) animation flows.
+Project -3 (Animated heading)
+Applying text and heading animations showcasing entrance and stagger effects with GSAP.
 
-ScrollTrigger
-Animating elements based on scroll position for modern interactive effects.
+Project -4 (scrolling based animation)
+Using ScrollTrigger to activate and control animations based on scroll position for interactive UX.
 
-Easing, Stagger, Repeat & Yoyo
-Building more natural and complex effects by controlling motion and repetition.
+Project -5 (Animated Website)
+A fully animated website prototype combining multiple GSAP techniques for a cohesive experience.
 
-Callbacks & Events
-Synchronizing animations with UI or user actions.
+✨ Key GSAP Concepts Covered
+gsap.to & gsap.from: Controlling element animations from and to various states.
 
-🛠️ Projects Overview
-Below are the highlights of what each project taught me:
+Timeline: Creating sequenced and synchronized animation flows.
 
-Project	Key GSAP Concepts Used
-Project-1	Basics of gsap.to for element transition
-Project-2	Entry effects with gsap.from
-Project-3	Animations sequencing via Timelines
-Project-4	Scroll-based triggers with ScrollTrigger
-Project-5	Advanced GSAP: easing, stagger, callbacks
-🚩 Getting Started
-Clone this repository
+ScrollTrigger: Linking animations to scroll position for dynamic, scroll-based effects.
 
-Open any project folder (Project-1 to Project-5)
+Stagger & Easing: Adding natural motion and delays to multiple elements.
 
-Open index.html in a browser to see the demo
-
-All projects use plain HTML/CSS/JS for simplicity.
-
-📝 Reflection
-By building these projects, I:
-
-Practiced the most-used GSAP APIs in real examples
-
-Understood how to combine multiple GSAP concepts within a real-world scenario
-
-Gained confidence to use GSAP creatively for interactive, performant web animations
-
-Feel free to fork, star, or build on these examples. If you have feedback or want to reach out, create an issue or pull request.
-
-Happy animating! ✨GSAP Learning Projects 🚀
-Welcome to my repository showing my journey with GSAP (GreenSock Animation Platform)! This repo contains hands-on mini-projects and examples which helped me learn core GSAP concepts, including gsap.to, gsap.from, timeline animations, ScrollTrigger, and more.
-
-📁 Repository Structure
-PART-1, PART-2, PART-3: My study notes, code snippets, and experiments while learning GSAP.
-
-Project-1 to Project-5: Individual hands-on projects, each focused on one or more GSAP features.
-
-✨ What I Learned
-gsap.to & gsap.from
-Animating DOM elements from/to specific values, customizing properties and sequencing actions.
-
-Timelines
-Creating organized, sequential (or overlapping) animation flows.
-
-ScrollTrigger
-Animating elements based on scroll position for modern interactive effects.
-
-Easing, Stagger, Repeat & Yoyo
-Building more natural and complex effects by controlling motion and repetition.
-
-Callbacks & Events
-Synchronizing animations with UI or user actions.
+Advanced Techniques: Custom cursors, animated navigation, and integrated UI animations.
 
 🛠️ Projects Overview
-Below are the highlights of what each project taught me:
+Folder Name	Main Feature	What You’ll Learn
+Project -1 (custom cursor)	Custom cursor animation	GSAP animation of mouse-following cursors
+Project -2 (Animation Navigation Menu)	Menu animation with timelines	Sequencing nav item animations with GSAP
+Project -3 (Animated heading)	Animated headings	Text animation with stagger & entrance effects
+Project -4 (scrolling based animation)	ScrollTrigger usage	Scroll-activated animations and effects
+Project -5 (Animated Website)	Full website animation	Combining GSAP techniques into a cohesive site animation
+🚩 How to Run
+Clone or download this repository.
 
-Project	Key GSAP Concepts Used
-Project-1	Basics of gsap.to for element transition
-Project-2	Entry effects with gsap.from
-Project-3	Animations sequencing via Timelines
-Project-4	Scroll-based triggers with ScrollTrigger
-Project-5	Advanced GSAP: easing, stagger, callbacks
-🚩 Getting Started
-Clone this repository
+Open your preferred project folder (e.g., Project -1 (custom cursor)).
 
-Open any project folder (Project-1 to Project-5)
+Open index.html in any modern web browser to view the demo.
 
-Open index.html in a browser to see the demo
+All code is plain HTML, CSS, and JavaScript—no server setup needed.
 
-All projects use plain HTML/CSS/JS for simplicity.
+📝 My Learning Journey
+While building these projects, I:
 
-📝 Reflection
-By building these projects, I:
+Gained practical experience with GSAP’s core APIs and plugins.
 
-Practiced the most-used GSAP APIs in real examples
+Improved my ability to sequence and synchronize animations using timelines.
 
-Understood how to combine multiple GSAP concepts within a real-world scenario
+Mastered scroll-based triggers for modern web interactions.
 
-Gained confidence to use GSAP creatively for interactive, performant web animations
+Learned to combine animations for creating polished UI prototypes.
 
-Feel free to fork, star, or build on these examples. If you have feedback or want to reach out, create an issue or pull request.
+Built confidence to experiment with custom animated effects.
+
+Feel free to explore, fork, or adapt these projects. Contributions and feedback are always welcome!
 
 Happy animating! ✨
